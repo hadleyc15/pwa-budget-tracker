@@ -27,6 +27,8 @@ This application was developed with the following application structures:
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](http://expressjs.com/)
 3. [Mongoose](https://mongoosejs.com/)
+4. [Morgan](https://www.npmjs.com/package/morgan)
+5. [Compression](https://www.npmjs.com/package/compression)
 
 ---
 
